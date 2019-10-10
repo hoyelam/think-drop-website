@@ -30,9 +30,9 @@ body {
     .appstoreLink {
         font-size: 1.8vw;
         border-width: 2px;
-        border-color: #fff;
+        border-color: #0c76ea;
         border-style: solid;
-        color: #fff;
+        color: #0c76ea;
         border-radius: 50px;
         background-color: none;
         padding-top: 1%;
@@ -48,11 +48,11 @@ body {
     .appstoreLink:hover {
         font-size: 1.8vw;
         border-width: 2px;
-        border-color: #fff;
+        border-color: #0c76ea;
         border-style: solid;
-        color: #292d42;
+        color: #fff;
         border-radius: 50px;
-        background-color: #fff;
+        background-color: #0c76ea;
         padding-top: 1%;
         padding-bottom: 1%;
         padding-left: 3%;
@@ -92,7 +92,7 @@ body {
     }
 
     .secondarySubHeading {
-        color: #9C9C9C;
+        color: #8b8c9f;
         font-size: 2vw;
         line-height: 1em;
         width: 50%;
@@ -111,11 +111,10 @@ body {
 
     .threadSubHeading,
     .threadSubHeading1 {
-        color: #fff;
+        color: #8b8c9f;
         font-size: 2vw;
         line-height: 1em;
         padding-bottom: 10%;
-        opacity: 0.5;
         margin-left: 10%;
         margin-right: 10%;
     }
