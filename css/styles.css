@@ -10,6 +10,11 @@ body {
     margin-bottom: 10%;
 }
 
+.link{
+    color: #9868d8;
+    text-decoration: none;
+}
+
 @media only screen and (min-width: 600px) {
     .head-section {
         padding-top: 5%;
