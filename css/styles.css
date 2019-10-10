@@ -229,9 +229,9 @@ body {
     .appstoreLink {
         font-size: 6vw;
         border-width: 2px;
-        border-color: #fff;
+        border-color: #0c76ea;
         border-style: solid;
-        color: #fff;
+        color: #0c76ea;
         border-radius: 50px;
         background-color: none;
         padding-top: 3%;
@@ -247,11 +247,11 @@ body {
     .appstoreLink:hover {
         font-size: 6vw;
         border-width: 2px;
-        border-color: #fff;
+        border-color: #0c76ea;
         border-style: solid;
-        color: #292d42;
+        color: #FFF;
         border-radius: 50px;
-        background-color: #fff;
+        background-color: #0c76ea;
         padding-top: 3%;
         padding-bottom: 3%;
         padding-left: 10%;
@@ -264,7 +264,7 @@ body {
 
     .section {
         border-bottom-width: 2px;
-        border-bottom-color: #fff;
+        border-bottom-color: #0c76ea;
         border-bottom-style: solid;
 
         padding-top: 5%;
