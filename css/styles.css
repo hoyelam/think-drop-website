@@ -5,9 +5,29 @@ body {
     background-color: #292d42;
 }
 
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+
+.privacyContent {
+    text-align: left;
+    font-family: -apple-system, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+    font-size: 1.2vw;
+    line-height: 1.3em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 .applogo {
+    border-radius: 16px;
     width: 15%;
-    margin-bottom: 10%;
+    margin-bottom: 1%;
 }
 
 .link{
@@ -19,7 +39,7 @@ body {
     .head-section {
         padding-top: 5%;
         background-color: #292d42;
-        padding-bottom: 5%;
+        padding-bottom: 3%;
     }
 
     .footer-section {
