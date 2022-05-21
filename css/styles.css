@@ -159,7 +159,18 @@ body {
 
     .image2 {
         width: 60%;
+    }
 
+    .image3 {
+        background-color: #353a50;
+        width: 100%;
+        border-radius: 10%;
+    }
+
+    .image3 {
+        background-color: #353a50;
+        width: 100%;
+        border-radius: 10%;
     }
 
     .fade-in.one {
